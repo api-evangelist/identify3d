@@ -64,6 +64,44 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Identify3D is a company surfaced as a portfolio company of uncork-capital and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **Acquired or rebranded.** This company was acquired, merged or renamed. Its API, if it still exists, is offered under another name. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: uncork-capital
+Identify3D developed software to secure the digital (additive / 3D-printing) manufacturing supply chain by encrypting, distributing, and tracing digital part files, so that a part could only be produced by an authorized user, machine, and material and non-conforming or counterfeit parts could not enter the physical supply chain. The suite coupled part designs with production criteria (designated user, machine, material) and provided intellectual-property protection, digital-rights management, and traceability for distributed manufacturing. Founded in San Francisco and backed by Uncork Capital, Identify3D was acquired by Materialise NV in October 2021 and its technology was folded into the Materialise CO-AM distributed-manufacturing platform. The company no longer operates a standalone product, developer portal, or public API; this profile is retained in the API Evangelist network for historical and VC portfolio-graph purposes.
+
+**Areas:** Company · 3D Printing · Digital Manufacturing · Supply Chain Security · Digital Rights Management · Encryption · Traceability · Manufacturing · Acquired
+
+## Identify3D on APIs.io (historical record)
+
+Everything profiled for Identify3D is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/identify3d/](https://apis.io/providers/identify3d/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Identify3D Domain Security](https://apis.io/security/identify3d/identify3d-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://identify3d.com)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as acquired or rebranded, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Identify3D: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/identify3d/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
